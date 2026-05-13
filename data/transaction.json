@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1778651612372,
+    "title": "salary",
+    "amount": "20000",
+    "category": "income",
+    "date": "2026-05-13"
+  },
+  {
+    "id": 1778651628181,
+    "title": "food",
+    "amount": "300",
+    "category": "food",
+    "date": "2026-05-13"
+  }
+]
