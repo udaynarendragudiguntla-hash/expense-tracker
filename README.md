@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Expense Tracker
 
@@ -113,3 +114,6 @@ DELETE /transaction/:id
 Uday
 
 ````
+=======
+# expense-tracker
+>>>>>>> f0bdeb4c8e088c47c917b62249527df16b50747c
